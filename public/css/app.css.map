@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Alert.scss"],"names":[],"mappings":"AAAA;EACC,gBACC,EAAC","file":"app.css","sourcesContent":[".alert{\r\n\tcursor: pointer\r\n\t}\r\n"]}

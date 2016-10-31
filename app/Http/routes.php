@@ -19,6 +19,9 @@ Route::get('event',['middleware' => ['web'], function () {
     //return view('welcome');
 }]);
 Route::get('home','HomeController@index');
+Route::get('welcome',function(){
+	return view('welcome');
+});
 /*
 |--------------------------------------------------------------------------
 | Application Routes
